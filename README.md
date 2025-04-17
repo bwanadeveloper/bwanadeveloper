@@ -1,4 +1,4 @@
-[![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=1920&q=75)](https://cubettech.com/)
+[![MasterHead]()
 This is a dumy  Acc
 <h1 align="center">Hi 👋, I'm Enock</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
