@@ -1,5 +1,5 @@
 [![MasterHead]()
-This is a dumy  Acc
+NOTE> This is my dumy  Acc
 <h1 align="center">Hi 👋, I'm Enock</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
